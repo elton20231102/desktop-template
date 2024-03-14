@@ -16,7 +16,7 @@
   "author": "GitHub",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^29.1.2"
+    "electron": "^29.1.4"
   },
   "dependencies": {
     "mousetrap": "^1.6.5"
